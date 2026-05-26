@@ -1,0 +1,4 @@
+# Raw experiment data manifest (heavy parquet kept out of git per konspekt)
+# regenerate with: uv run cmaes-ri --out results run
+8c605f6e65a1c414947a298bd1d73a8f480db612722064b81b76aba432cbc16f  results/summary.parquet
+ad273e59f993b0a6a58c1c560317cbbdffb01477dbfffbdedb6d70f8d1f4650c  results/trajectories.parquet
